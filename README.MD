@@ -1,3 +1,3 @@
-## Tutorial on How to Build a Shopping Cart with NodeJS/ Express
+Shopping Cart with NodeJS/ Express / MongoDB
 
-This repository holds the source code of my YouTube series on how to create a shopping cart with NodeJS/Express/MongoDB
+P.S.: The source code matches with the YouTube series on how to create a shopping cart with NodeJS/Express/MongoDB
